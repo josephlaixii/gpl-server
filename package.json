@@ -1,0 +1,30 @@
+{
+  "name": "gpl-server",
+  "version": "1.0.0",
+  "description": "GraphQL is a language that enables you to provide a complete and understandable description of the data in your API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephlaixii/gpl-server.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "Nodejs",
+    "and",
+    "Expressjs"
+  ],
+  "author": "Joseph Lai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephlaixii/gpl-server/issues"
+  },
+  "homepage": "https://github.com/josephlaixii/gpl-server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2"
+  }
+}
